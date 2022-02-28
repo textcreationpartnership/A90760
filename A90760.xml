@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The soule of fasting: or Affections requisite in a day of solemne fasting and humiliation. According to the pattern, Neh. 9.5. &amp;c. By H.P. Imprimatur. Charles Herle.</title>
+            <author>Palmer, Herbert, 1601-1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90760</idno>
+            <idno type="STC">Wing P245</idno>
+            <idno type="STC">Thomason E1182_1</idno>
+            <idno type="STC">ESTC R204934</idno>
+            <idno type="EEBO-CITATION">99864382</idno>
+            <idno type="PROQUEST">99864382</idno>
+            <idno type="VID">116610</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90760)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116610)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1182[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The soule of fasting: or Affections requisite in a day of solemne fasting and humiliation. According to the pattern, Neh. 9.5. &amp;c. By H.P. Imprimatur. Charles Herle.</title>
+                  <author>Palmer, Herbert, 1601-1647.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M. Simmons for Thomas Underhill at the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>H.P. = Herbert Palmer.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Jan: 21:"; "Herbert [P]almer".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devotional exercises --  Early works to 1800.</term>
+               <term>Fasting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116610:1" rendition="simple:additions"/>
+            <p>THE SOULE OF FASTING: <hi>OR</hi> AFFECTIONS Requiſite in a Day of, ſolemne Faſting and
+Humiliation.</p>
+            <q>
+               <p>According to the Pattern,</p>
+               <bibl>
+                  <hi>Neh.</hi> 9.5. &amp;c.</bibl>
+            </q>
+            <p>By <hi>H. P</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <signed>Charles Herle.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>M. Simmons</hi> for <hi>Thomas <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in
+<hi>Woodſtreet.</hi> 1644.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:116610:2"/>
+            <pb facs="tcp:116610:2"/>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Rom the Experience, that of<g ref="char:EOLhyphen"/>tentimes <hi>a little thing helps the Weake,</hi> and ſpecially
+the <hi>Willing;</hi> and from the Deſire to prevent the great Evill of <hi>Formalitie</hi> in
+our ſolemne <hi>Humiliations;</hi> Theſe few Advertiſements are offred to thy Eye and heart.
+Confident that the Subſtance of them is beyond Depiſing, except among thoſe, who not onely
+<hi>Deny,</hi> but <hi>Deſpiſe</hi> all <hi>the Power of Godlineſſe.</hi> I have ven<g ref="char:EOLhyphen"/>tured
+to ſend them out, thus naked and alone. If they Profit thee any thing, thy Prayers may helpe to
+quicken to Some fur<g ref="char:EOLhyphen"/>ther endeavour for thy Good, him who is devoted</p>
+            <closer>
+               <date>Novemb. <hi>20. 1644.</hi>
+               </date>
+               <signed>
+                  <hi>Thine and the Churches ſervant in Chriſt altogether,</hi> H. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:116610:3"/>
+            <pb facs="tcp:116610:3"/>
+            <head>The Soule of Faſting. <hi>Nehem.</hi> 9.5, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">1. <hi>
+                  <seg rend="decorInit">A</seg>N Awfull Regard and Reverence of the Glorious Majeſty of the Great God, with
+whom we have to doe</hi> by a through Appre<g ref="char:EOLhyphen"/>henſion of His Infinite and Incompre<g ref="char:EOLhyphen"/>henſible
+Perfection, in all His Attributes, and of His Abſolute Soveraigntie, as Creator, Preſerver, and
+Ruler of Us and all things in the World, <hi>ver.</hi> 6.</p>
+            <p n="2">2. <hi>Thankfulneſſe for all the Goodneſſe of GOD vouchſafed to us,</hi> by a
+Large Appre<g ref="char:EOLhyphen"/>henſion of all His manifold Favour, Ge<g ref="char:EOLhyphen"/>nerall to His Church, to Our Nation,
+Particular to Us, and our Friends, Tem<g ref="char:EOLhyphen"/>porall, Spirituall; Illuſtrated marvel<g ref="char:EOLhyphen"/>louſly by our
+Deſervings, not onely of no good, but of extreame ill, <hi>ver.</hi> 7. &amp;c.</p>
+            <pb facs="tcp:116610:4"/>
+            <p n="3">3. <hi>Sorrow for Our Sinnes, and our Nati<g ref="char:EOLhyphen"/>ons, and Forefathers Sinnes,</hi> by a deep
+ap<g ref="char:EOLhyphen"/>prehenſion of the curſed Nature of Sinne in Generall, and vileneſſe of ſuch Sinnes in
+Particular; Aggravated by all circum<g ref="char:EOLhyphen"/>ſtances that may be; Specially by GODS Mercies and
+Chaſtiſements, <hi>ver.</hi> 16. &amp;c.</p>
+            <p n="4">4. <hi>Sence of Our Miſery, Felt and Feared, all proceeding from GODS Hand, from His
+Diſpleaſure, Provoked by Our Sinnes, and Impoſsible to be avoyded, but by His Favour, which
+is not to be preſumed upon, if We con<g ref="char:EOLhyphen"/>tinue in Our Sinnes,</hi> ver. 32. &amp;c.</p>
+            <p n="5">5. <hi>Faith</hi> in the <hi>Covenant,</hi> Truth, Good<g ref="char:EOLhyphen"/>neſſe, and Power of GOD, for
+all times and purpoſes, <hi>ver.</hi> 32.</p>
+            <p n="6">6. <hi>A Covenant renued with GOD</hi> of all Obſervance and Fidelitie, ſpecially to
+Amend what we have acknowledged a<g ref="char:EOLhyphen"/>miſſe in our ſelves, and profeſſed Sor<g ref="char:EOLhyphen"/>row for, and
+Feare of, before GOD or Men, or both, <hi>ver.</hi> 39. and <hi>Chap.</hi> 10. throughout.</p>
+            <div type="directions">
+               <pb facs="tcp:116610:4"/>
+               <head>Directions about theſe.</head>
+               <p n="1">1. IN the Word read or preached, thoſe things are to be moſt care<g ref="char:EOLhyphen"/>fully obſerved,
+which may quicken and confirme any of theſe.</p>
+               <p n="2">2. All theſe are to be preſented in Prayer, Summarily in every ſolemne Supplication
+ſuch a day, private or pub<g ref="char:EOLhyphen"/>lick: but the enlargements may be vari<g ref="char:EOLhyphen"/>ed, and one while more of one;
+and ano<g ref="char:EOLhyphen"/>ther while of another.</p>
+               <p n="3">3. Before-hand it would be greatly helpfull to have written by us; 1. Am<g ref="char:EOLhyphen"/>plifications upon
+GODS Attributes; 2. Catalogues of Choicer Mercies; 3. Catalogues of Sinnes; 4. Aggrava<g ref="char:EOLhyphen"/>tions of
+Sinnes.</p>
+               <p n="4">4. The Day is to be begun with thoſe thoughts, ſpecially which relate to our ſelves,
+though taking in others alſo.</p>
+               <p n="5">5. And it is not to be ended without ſome ſecret, yet ſolemne review of the ſoules
+behaviour, from firſt to laſt; and
+<pb facs="tcp:116610:5"/>an earneſt Labouring to faſten all the good thoughts
+it hath had, upon it, and to reinforce the ſute to GOD, to ſettle them upon it, firmely and
+laſtingly.</p>
+               <closer>The GOD of All Wiſedome and Grace, teach us to practiſe and improve theſe
+Remembrances, to His Glory, and Our Eternall Good by Jeſus Chriſt.</closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:116610:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
